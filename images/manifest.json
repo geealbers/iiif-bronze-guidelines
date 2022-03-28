@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3230,
+    "id" : "https://geealbers.github.io/iiif-bronze-guidelines/images/fig-016/canvas/",
+    "label" : {
+      "none" : [ "fig-016" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://geealbers.github.io/iiif-bronze-guidelines/images/fig-016/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://geealbers.github.io/iiif-bronze-guidelines/images/fig-016/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 101,
+              "height" : 85
+            }, {
+              "width" : 202,
+              "height" : 169
+            }, {
+              "width" : 404,
+              "height" : 338
+            }, {
+              "width" : 808,
+              "height" : 676
+            }, {
+              "width" : 1615,
+              "height" : 1351
+            }, {
+              "width" : 3230,
+              "height" : 2701
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3230,
+            "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/images/fig-016",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2701
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3230,
+          "id" : "https://geealbers.github.io/iiif-bronze-guidelines/images/fig-016/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2701
+        },
+        "target" : "https://geealbers.github.io/iiif-bronze-guidelines/images/fig-016/canvas/"
+      } ]
+    } ],
+    "height" : 2701
+  }, {
     "width" : 5050,
     "id" : "https://geealbers.github.io/iiif-bronze-guidelines/images/fig-043a/canvas/",
     "label" : {

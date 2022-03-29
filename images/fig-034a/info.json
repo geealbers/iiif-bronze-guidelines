@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 156,
+    "height" : 264
+  }, {
+    "width" : 312,
+    "height" : 528
+  }, {
+    "width" : 623,
+    "height" : 1056
+  }, {
+    "width" : 1246,
+    "height" : 2112
+  }, {
+    "width" : 2492,
+    "height" : 4224
+  }, {
+    "width" : 4983,
+    "height" : 8448
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4983,
+  "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/images/fig-034a",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 8448
+}

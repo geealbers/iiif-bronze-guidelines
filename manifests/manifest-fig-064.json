@@ -1,0 +1,81 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-064.json",
+  "@type" : "sc:Manifest",
+  "label" : "Horse and Rider",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Annotated X-radiograph showing numerous small circular holes (red dots) testifying to the use of transverse core pins passing through the horse’s body from one side to the other. See also the long wax joint running the length of the horse (green lines). <i>Horse and Rider</i>, Italian, 16th century, H. 33 cm (Musée des beaux arts d’Angers, France, inv. 2003-1-182).",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc/4.0/",
+  "attribution" : "As published in <em>Guidelines for the Technical Examination of Bronze Sculpture</em> (Getty Publications, 2023)",
+  "sequences" : [ {
+    "@id" : "http://b539c1f6-de96-40d6-97d3-430d5b1f69d5",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://e4b66bad-2314-4b22-8b5a-e104a7c93029",
+      "@type" : "sc:Canvas",
+      "label" : "X-radiograph",
+      "height" : 8448,
+      "width" : 6683,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://95108462-307d-4c92-8bd4-dd1f215e318d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-064/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-064",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "default" ]
+            } ]
+          },
+          "height" : 8448,
+          "width" : 6683
+        },
+        "on" : "http://e4b66bad-2314-4b22-8b5a-e104a7c93029"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://abbd964b-14e1-41a0-8e6f-cb67855b11c4",
+      "@type" : "sc:Canvas",
+      "label" : "Armature",
+      "height" : 8448,
+      "width" : 6683,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://efe8d87c-20de-4bcb-80c2-6d9ff7df1a1a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-064-anno/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-064-anno",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "default" ]
+            } ]
+          },
+          "height" : 8448,
+          "width" : 6683
+        },
+        "on" : "http://abbd964b-14e1-41a0-8e6f-cb67855b11c4"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

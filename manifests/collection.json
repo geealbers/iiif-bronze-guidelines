@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-v3.json",
-    "label" : "Abundance S3 Version"
-  } ]
+  "items" : [ ]
 }

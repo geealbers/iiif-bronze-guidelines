@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-006.json",
     "label" : "Experimental sand-cast"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json",
+    "label" : "Lost-wax slush-molding process combined with ceramic shell casting"
   } ]
 }

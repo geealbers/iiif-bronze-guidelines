@@ -45,6 +45,11 @@
         },
         "on" : "http://e4b66bad-2314-4b22-8b5a-e104a7c93029"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/annotations/manifest-fig-064-annotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://abbd964b-14e1-41a0-8e6f-cb67855b11c4",

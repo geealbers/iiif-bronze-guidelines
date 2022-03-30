@@ -1,0 +1,140 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-034.json",
+  "@type" : "sc:Manifest",
+  "label" : "Abundance, Nicolas Péron",
+  "metadata" : [ {
+    "label" : "Artist/Maker",
+    "value" : "Nicolas Péron"
+  }, {
+    "label" : "Title",
+    "value" : "Abundance"
+  }, {
+    "label" : "Date",
+    "value" : "cast in 1571"
+  } ],
+  "description" : [ {
+    "@value" : "Overlay of interpretive technical diagram and both X-radiograph and daylight photography showing the wire wrapping the core. Note how complex the image is due to the numerous overlaps, for instance of the drapery. Barthélemy Prieur (French, ca. 1536–1611), <i>Abundance</i>, cast in 1571 by Nicolas Péron, H. 128 cm (Musée du Louvre, inv. MR1681).",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc/4.0/",
+  "attribution" : "As published in <i>Guidelines for the Technical Examination of Bronze Sculpture</i> (Getty Publications, 2023)",
+  "sequences" : [ {
+    "@id" : "http://ea9d2470-32c2-473a-8e68-1a7c04925116",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://eb21aa24-8d1a-4905-b307-2f89e5926937",
+      "@type" : "sc:Canvas",
+      "label" : "Daylight",
+      "height" : 8448,
+      "width" : 4983,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7bc44ba2-16e6-4f9d-ba07-1d381da86d2a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-034a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-034a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "default" ]
+            } ]
+          },
+          "height" : 8448,
+          "width" : 4983
+        },
+        "on" : "http://eb21aa24-8d1a-4905-b307-2f89e5926937"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e3f44ac1-1522-4d92-aeea-93468512daf1",
+      "@type" : "sc:Canvas",
+      "label" : "X-radiography",
+      "height" : 8448,
+      "width" : 4983,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fc4dc934-b9aa-4e1a-88fe-53ed4be48c45",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-034b/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-034b",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "default" ]
+            } ]
+          },
+          "height" : 8448,
+          "width" : 4983
+        },
+        "on" : "http://e3f44ac1-1522-4d92-aeea-93468512daf1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3e2a4271-c5f8-42c9-b8da-987ec65b4f70",
+      "@type" : "sc:Canvas",
+      "label" : "Armature",
+      "height" : 8448,
+      "width" : 4983,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://313d30fa-5c10-4705-84b8-2f3d5009cc6b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-034c/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-034c",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "default" ]
+            } ]
+          },
+          "height" : 8448,
+          "width" : 4983
+        },
+        "on" : "http://3e2a4271-c5f8-42c9-b8da-987ec65b4f70"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/daylight", "http://example.org/iiif/book1/range/xray", "http://example.org/iiif/book1/range/armature" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/daylight",
+    "@type" : "sc:Range",
+    "label" : "Daylight",
+    "canvases" : [ "http://eb21aa24-8d1a-4905-b307-2f89e5926937" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/xray",
+    "@type" : "sc:Range",
+    "label" : "X-radiography",
+    "canvases" : [ "http://e3f44ac1-1522-4d92-aeea-93468512daf1" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/armature",
+    "@type" : "sc:Range",
+    "label" : "Armature",
+    "canvases" : [ "http://3e2a4271-c5f8-42c9-b8da-987ec65b4f70" ]
+  } ]
+}

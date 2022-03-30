@@ -51,35 +51,6 @@
         "label" : "My fantastic annotations"
       } ],
       "related" : ""
-    }, {
-      "@id" : "http://abbd964b-14e1-41a0-8e6f-cb67855b11c4",
-      "@type" : "sc:Canvas",
-      "label" : "Armature",
-      "height" : 8448,
-      "width" : 6683,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://efe8d87c-20de-4bcb-80c2-6d9ff7df1a1a",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-064-anno/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-064-anno",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg" ],
-              "qualities" : [ "default" ]
-            } ]
-          },
-          "height" : 8448,
-          "width" : 6683
-        },
-        "on" : "http://abbd964b-14e1-41a0-8e6f-cb67855b11c4"
-      } ],
-      "related" : ""
     } ]
   } ],
   "structures" : [ ]

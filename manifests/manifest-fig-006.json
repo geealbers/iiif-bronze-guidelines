@@ -1,0 +1,81 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-006.json",
+  "@type" : "sc:Manifest",
+  "label" : "Experimental sand-cast",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Experimental sand-cast torso (H. 16 cm). Yellow overlay indicates the hollow lantern made of rolled sheet metal that runs vertically through the body and has been used to mount the torso to a base. See also the area where the bronze did not fill the mold, an extreme example of a cold shut. White arrows indicate the typically rounded edge of the bronze wall where it stopped flowing. Green arrows denote the seam line along the proper right side of the torso where bronze flowed into a gap along the joint of the cope and drag. Red arrows indicate flashing at either side of the lower horizontal armature rod. Made with consultant Tonny Beentjes, Decorative Arts and Sculpture Conservation, J. Paul Getty Museum.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc/4.0/",
+  "attribution" : "As published in <i>Guidelines for the Technical Examination of Bronze Sculpture</i> (Getty Publications, 2023)",
+  "sequences" : [ {
+    "@id" : "http://de8050d2-227a-40d0-abb1-a49709f8fe8e",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://cad6b682-68a3-4ea2-aabd-a1c217f7871a",
+      "@type" : "sc:Canvas",
+      "label" : "Daylight",
+      "height" : 2304,
+      "width" : 1745,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://35eab023-2d15-48ff-a838-1cdd0fe15241",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "default" ]
+            } ]
+          },
+          "height" : 2304,
+          "width" : 1745
+        },
+        "on" : "http://cad6b682-68a3-4ea2-aabd-a1c217f7871a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5a052247-ff76-4bd4-8890-e2ccb471022f",
+      "@type" : "sc:Canvas",
+      "label" : "Labels",
+      "height" : 2304,
+      "width" : 1745,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6c1796a0-0af5-44e2-a1d5-e6376898b682",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-anno/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-anno",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg" ],
+              "qualities" : [ "default" ]
+            } ]
+          },
+          "height" : 2304,
+          "width" : 1745
+        },
+        "on" : "http://5a052247-ff76-4bd4-8890-e2ccb471022f"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}

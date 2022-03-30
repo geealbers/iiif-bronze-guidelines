@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-064.json",
     "label" : "Horse and Rider"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-043.json",
+    "label" : "Hercules freeing Dejanira from the Centaur Nessus"
   } ]
 }

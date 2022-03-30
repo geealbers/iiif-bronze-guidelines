@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-034.json",
     "label" : "Abundance, Nicolas Péron"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-034-layers.json",
+    "label" : "Abundance, Nicolas Péron (Layers)"
   } ]
 }

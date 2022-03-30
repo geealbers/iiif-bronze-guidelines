@@ -7,10 +7,6 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "@type" : "sc:Manifest",
-    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest.json",
-    "label" : "Abundance, Nicolas Péron"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-064.json",
     "label" : "Horse and Rider"
   }, {

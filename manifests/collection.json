@@ -25,5 +25,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-034-layers.json",
     "label" : "Abundance, Nicolas Péron (Layers)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-043-layers.json",
+    "label" : "Hercules freeing Dejanira from the Centaur Nessus (Layers)"
   } ]
 }

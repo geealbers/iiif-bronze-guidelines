@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-034-layers.json",
   "@type" : "sc:Manifest",
-  "label" : "Abundance, Nicolas Péron (Layers)",
+  "label" : "Abundance, Nicolas Péron (Layers, 3 Images on a Single Canvas)",
   "metadata" : [ {
     "label" : "Artist/Maker",
     "value" : "Nicolas Péron"
@@ -14,11 +14,11 @@
     "value" : "cast in 1571"
   } ],
   "description" : [ {
-    "@value" : "Overlay of interpretive technical diagram and both X-radiograph and daylight photography showing the wire wrapping the core. Note how complex the image is due to the numerous overlaps, for instance of the drapery. Barthélemy Prieur (French, ca. 1536–1611), <i>Abundance</i>, cast in 1571 by Nicolas Péron, H. 128 cm (Musée du Louvre, inv. MR1681).",
+    "@value" : "<p>This puts all three images on the same canvas. In Mirador, this turns into an interface that lets you hide the individual images, or adjust their opacity. The first, or topmost image is the default, and this leads to a less-than-ideal user experience as you need to turn it off to see what's underneath, rather than turning on the layers that might come above it. These layers are also not visible at all in Universal Viewer. There only the first image is displayed, with no indication of the others.</p><p>Overlay of interpretive technical diagram and both X-radiograph and daylight photography showing the wire wrapping the core. Note how complex the image is due to the numerous overlaps, for instance of the drapery. Barthélemy Prieur (French, ca. 1536–1611), <i>Abundance</i>, cast in 1571 by Nicolas Péron, H. 128 cm (Musée du Louvre, inv. MR1681).</p>",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by-nc/4.0/",
-  "attribution" : "As published in <i>Guidelines for the Technical Examination of Bronze Sculpture</i> (Getty Publications, 2023)",
+  "attribution" : "Prototype for <i>Guidelines for the Technical Examination of Bronze Sculpture</i> (Getty Publications, 2023)",
   "sequences" : [ {
     "@id" : "http://ea9d2470-32c2-473a-8e68-1a7c04925116",
     "@type" : "sc:Sequence",

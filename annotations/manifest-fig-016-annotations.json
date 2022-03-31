@@ -1,0 +1,468 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "1) a flexible silicone two-piece mold is created from the model (in this example made of clay); the layer of silicone is backed with a rigid mother mold",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>1)</strong> a flexible silicone two-piece mold is created from the model (in this example made of clay); the layer of silicone is backed with a rigid mother mold</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:30:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733413360",
+    "dcterms:modified" : "2022-03-31T13:35:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=9,6,419,594"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M9.42264,600.49871h209.50937v0h209.50937v-297.13727v-297.13727h-209.50937h-209.50937v297.13727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_ba246231-12d6-46f3-8190-1a905eb956d6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"18.67248\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "13) chasing includes polishing, burnishing, and the addition of textures and sharpening of details as needed",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>13)</strong> chasing includes polishing, burnishing, and the addition of textures and sharpening of details as needed</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:34:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733682853",
+    "dcterms:modified" : "2022-03-31T13:34:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=883,1178,468,745"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1350.72917,1923.13275h-233.96205v0h-233.96205v-372.44961v-372.44961h233.96205h233.96205v372.44961z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9ff39313-6352-4ae7-acca-f8d5889377b2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "10) when the refractory mold has dried, it is placed upside down and heated rapidly to burn out all traces of wax; it is then placed in a kiln to dry the plaster investment core and sinter the ceramic shell into a sturdy, unified body that can withstand the pressure of the molten bronze",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>10)</strong> when the refractory mold has dried, it is placed upside down and heated rapidly to burn out all traces of wax; it is then placed in a kiln to dry the plaster investment core and sinter the ceramic shell into a sturdy, unified body that can withstand the pressure of the molten bronze</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:33:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733603791",
+    "dcterms:modified" : "2022-03-31T13:33:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1864,587,440,574"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1864.22238,1160.67313h219.88881v0h219.88881v-286.86741v-286.86741h-219.88881h-219.88881v286.86741z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9ef14d60-7cc8-4e54-8746-0fa467951268\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "11) the hot mold is removed from the kiln, turned with the casting cup facing up, and the molten bronze poured into the mold",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>11)</strong> the hot mold is removed from the kiln, turned with the casting cup facing up, and the molten bronze poured into the mold</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:33:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733638009",
+    "dcterms:modified" : "2022-03-31T13:33:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=13,1178,416,745"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M12.53472,1923.13275h207.95333v0h207.95333v-372.44961v-372.44961h-207.95333h-207.95333v372.44961z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_51a35a3e-0d75-4912-a5f8-048a3be44d89\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "8) an iron armature is inserted into the hollow wax, which is then filled with refractory core material (note: in ceramic shell casting, the core can be a plaster-based investment or the same ceramic shell materials as the outer mold)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>8)</strong> an iron armature is inserted into the hollow wax, which is then filled with refractory core material (note: in ceramic shell casting, the core can be a plaster-based investment or the same ceramic shell materials as the outer mold)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:32:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733563646",
+    "dcterms:modified" : "2022-03-31T13:32:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=865,606,509,555"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M865.24467,1160.67313h254.63453v0h254.63453v-277.53117v-277.53117h-254.63453h-254.63453v277.53117z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_33641871-0ec4-49a1-9c9d-0606746d2446\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "14) as a final step, a chemical patina and/or a coating may be applied",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>14)</strong> as a final step, a chemical patina and/or a coating may be applied</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:35:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733705593",
+    "dcterms:modified" : "2022-03-31T13:35:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1370,1178,489,741"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1369.93201,1178.10078h244.52027v0h244.52027v370.55951v370.55951h-244.52027h-244.52027v-370.55951z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0e406349-b400-4c86-83e0-d8fdf42e9216\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "3) to form the inter-model, molten wax may first be brushed into the interior of the piece mold to ensure that the wax reaches all areas and captures the fine details",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>3)</strong> to form the inter-model, molten wax may first be brushed into the interior of the piece mold to ensure that the wax reaches all areas and captures the fine details</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:30:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733457584",
+    "dcterms:modified" : "2022-03-31T13:35:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=861,0,511,599"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M860.63855,599.344h255.48727v0h255.48727v-299.672v-299.672h-255.48727h-255.48727v299.672z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_134c73cf-1525-4f85-97db-b5916f51355d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.28719\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "12) when the metal has cooled, the ceramic shell casing is broken off of the cast and remains are removed by sandblasting; the bronze sprue system is cut off and the core pins and plaster core removed along with the internal armature",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>12)</strong> when the metal has cooled, the ceramic shell casing is broken off of the cast and remains are removed by sandblasting; the bronze sprue system is cut off and the core pins and plaster core removed along with the internal armature</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:34:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733661799",
+    "dcterms:modified" : "2022-03-31T13:34:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=439,1176,466,746"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M438.8897,1176.23353h232.84997v0h232.84997v372.89357v372.89357h-232.84997h-232.84997v-372.89357z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5ce169ac-a031-4852-8595-05c35fe9c510\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "4) the mold is reassembled; the molten wax is poured in and slushed around in order to coat the interior",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>4)</strong> the mold is reassembled; the molten wax is poured in and slushed around in order to coat the interior</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:31:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733475886",
+    "dcterms:modified" : "2022-03-31T13:35:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1388,2,453,589"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1388.07413,591.16247h226.62581v0h226.62581v-294.64761v-294.64761h-226.62581h-226.62581v294.64761z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_b894a2c3-156d-4f94-b5df-a6685f84acd6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.28719\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "5) excess molten wax is poured out; this &ldquo;slush molding&rdquo; is repeated until the desired thickness is achieved",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>5)</strong> excess molten wax is poured out; this &ldquo;slush molding&rdquo; is repeated until the desired thickness is achieved</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:31:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733495280",
+    "dcterms:modified" : "2022-03-31T13:35:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1855,-3,446,588"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1854.88614,584.93831h223.00089v0h223.00089v-294.02519v-294.02519h-223.00089h-223.00089v294.02519z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_880a0838-8854-43d8-9401-bc54d696fb64\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.28719\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "9) the inter-model is then coated with a liquid ceramic slurry followed by grains of fused ceramic to provide bulk and a textured surface that will ensure that the next layer of slurry adheres well; once this first layer is dry, the process is repeated (eight to ten times) to create the desired thickness of ceramic shell",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>9)</strong> the inter-model is then coated with a liquid ceramic slurry followed by grains of fused ceramic to provide bulk and a textured surface that will ensure that the next layer of slurry adheres well; once this first layer is dry, the process is repeated (eight to ten times) to create the desired thickness of ceramic shell</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:33:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733585954",
+    "dcterms:modified" : "2022-03-31T13:33:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1388,606,463,558"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1388.07413,1163.78521h231.29393v0h231.29393v-279.08721v-279.08721h-231.29393h-231.29393v279.08721z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_75a108a9-ce1f-4c36-8194-3cafb8201420\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "2) this reusable mold is disassembled and the model removed",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>2)</strong> this reusable mold is disassembled and the model removed</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:30:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733432593",
+    "dcterms:modified" : "2022-03-31T13:35:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=442,3,407,600"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M442.00178,2.97933h203.28521v0h203.28521v299.75969v299.75969h-203.28521h-203.28521v-299.75969z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_4aebb607-3741-42b6-82a0-6c46232ae4de\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"9.33624\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "6) the hollow wax inter-model is removed from the mold, imperfections repaired, and details refinished",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>6)</strong> the hollow wax inter-model is removed from the mold, imperfections repaired, and details refinished</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:31:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733519527",
+    "dcterms:modified" : "2022-03-31T13:35:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6,612,428,558"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6.31056,1170.00937h214.17749v0h214.17749v-279.08721v-279.08721h-214.17749h-214.17749v279.08721z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_793909a1-d0db-4186-b06a-0e8cd3911d98\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.28719\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "7) core pins are pushed through the wax walls and the wax sprue system is fused to the inter-model",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>7)</strong> core pins are pushed through the wax walls and the wax sprue system is fused to the inter-model</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/7796401",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T13:32:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648733536212",
+    "dcterms:modified" : "2022-03-31T13:36:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=448,612,407,558"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M448.22594,1170.00937h203.28521v0h203.28521v-279.08721v-279.08721h-203.28521h-203.28521v279.08721z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_2cf364fe-2cc5-4d87-b34b-d5436e0824ac\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.28719\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
+    } ]
+  } ],
+  "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/annotations/manifest-fig-016-annotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

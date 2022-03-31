@@ -46,7 +46,7 @@
         "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c"
       } ],
       "otherContent" : [ {
-        "@id" : "http://127.0.0.1:8887/manifest-fig-016-annotations-sim ple.json",
+        "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/annotations/manifest-fig-016-annotations-simple.json",
         "@type" : "sc:AnnotationList",
         "label" : "Step-by-step guide"
       } ],

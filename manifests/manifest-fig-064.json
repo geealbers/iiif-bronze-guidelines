@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-064.json",
   "@type" : "sc:Manifest",
-  "label" : "Horse and Rider",
+  "label" : "Horse and Rider (Custom SVG Shape Annotations)",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "Annotated X-radiograph showing numerous small circular holes (red dots) testifying to the use of transverse core pins passing through the horse’s body from one side to the other. See also the long wax joint running the length of the horse (green lines). <i>Horse and Rider</i>, Italian, 16th century, H. 33 cm (Musée des beaux arts d’Angers, France, inv. 2003-1-182).",
+    "@value" : "<p>For this I used the Simple Annotation Server to get the basic annotation JSON output just using rectangles where I wanted the custom shapes to ultimately be. In Adobe Illustrator, working on a file the same size as this IIIF canvas, I created custom shapes for the annotations and saved that file as an SVG. With some clean-up and cutting and pasting I transfered those custom SVGs into the annotations JSON, replacing the simpler SVG markup that came out of Simple Annotation Server. For better or worse, Mirador adds stroke styles and hover styles to the shapes, but generally they transfered from Illustrator into IIIF fairly well. I like how in Mirador when you hover over an area on the image that has an annotation, the annotation shape become visible.</p><p>Annotated X-radiograph showing numerous small circular holes (red dots) testifying to the use of transverse core pins passing through the horse’s body from one side to the other. See also the long wax joint running the length of the horse (green lines). <i>Horse and Rider</i>, Italian, 16th century, H. 33 cm (Musée des beaux arts d’Angers, France, inv. 2003-1-182).</p>",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by-nc/4.0/",
-  "attribution" : "As published in <i>Guidelines for the Technical Examination of Bronze Sculpture</i> (Getty Publications, 2023)",
+  "attribution" : "Prototype for <i>Guidelines for the Technical Examination of Bronze Sculpture</i> (Getty Publications, 2023)",
   "sequences" : [ {
     "@id" : "http://b539c1f6-de96-40d6-97d3-430d5b1f69d5",
     "@type" : "sc:Sequence",

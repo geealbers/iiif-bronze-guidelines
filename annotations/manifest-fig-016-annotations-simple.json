@@ -1,0 +1,146 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/1",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>1)</strong> a flexible silicone two-piece mold is created from the model (in this example made of clay); the layer of silicone is backed with a rigid mother mold</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=0,0,413,578"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/2",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>2)</strong> this reusable mold is disassembled and the model removed</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=413,0,487,578"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/3",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>3)</strong> to form the inter-model, molten wax may first be brushed into the interior of the piece mold to ensure that the wax reaches all areas and captures the fine details</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=900,0,468,578"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/4",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>4)</strong> the mold is reassembled; the molten wax is poured in and slushed around in order to coat the interior</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=1368,0,471,578"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/5",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>5)</strong> excess molten wax is poured out; this &ldquo;slush molding&rdquo; is repeated until the desired thickness is achieved</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=1839,0,465,578"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/6",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>6)</strong> the hollow wax inter-model is removed from the mold, imperfections repaired, and details refinished</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=0,578,413,602"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/7",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>7)</strong> core pins are pushed through the wax walls and the wax sprue system is fused to the inter-model</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=413,578,487,602"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/8",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>8)</strong> an iron armature is inserted into the hollow wax, which is then filled with refractory core material (note: in ceramic shell casting, the core can be a plaster-based investment or the same ceramic shell materials as the outer mold)</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=900,578,468,602"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/9",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>9)</strong> the inter-model is then coated with a liquid ceramic slurry followed by grains of fused ceramic to provide bulk and a textured surface that will ensure that the next layer of slurry adheres well; once this first layer is dry, the process is repeated (eight to ten times) to create the desired thickness of ceramic shell</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=1368,578,471,602"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/10",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>10)</strong> when the refractory mold has dried, it is placed upside down and heated rapidly to burn out all traces of wax; it is then placed in a kiln to dry the plaster investment core and sinter the ceramic shell into a sturdy, unified body that can withstand the pressure of the molten bronze</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=1839,578,465,602"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/11",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>11)</strong> the hot mold is removed from the kiln, turned with the casting cup facing up, and the molten bronze poured into the mold</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=0,1180,413,588"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/12",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>12)</strong> when the metal has cooled, the ceramic shell casing is broken off of the cast and remains are removed by sandblasting; the bronze sprue system is cut off and the core pins and plaster core removed along with the internal armature</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=413,1180,487,588"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/13",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>13)</strong> chasing includes polishing, burnishing, and the addition of textures and sharpening of details as needed</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=900,1180,468,588"
+  }, {
+    "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/manifests/manifest-fig-016/list/14",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong>14)</strong> as a final step, a chemical patina and/or a coating may be applied</p>"
+    },
+    "on" : "http://ca7e597a-499e-48a8-9ac5-bc0b1975821c#xywh=1368,1180,471,588"
+  } ],
+  "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/annotations/manifest-fig-016-annotations-simple.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

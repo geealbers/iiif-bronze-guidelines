@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://geealbers.github.io/iiif-bronze-guidelines/annotations/manifest-fig-016-annotations.json", "https://geealbers.github.io/iiif-bronze-guidelines/annotations/manifest-fig-016-annotations-simple.json" ],
+  "otherContent" : [ "https://geealbers.github.io/iiif-bronze-guidelines/annotations/manifest-fig-016-annotations.json", "https://geealbers.github.io/iiif-bronze-guidelines/annotations/manifest-fig-016-annotations-simple.json", "https://geealbers.github.io/iiif-bronze-guidelines/annotations/manifest-fig-064-annotations.json" ],
   "@id" : "https://geealbers.github.io/iiif-bronze-guidelines/annotations/collection.json",
   "label" : "All annotations loaded in geealbers/iiif-bronze-guidelines project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"

@@ -25,6 +25,116 @@
       "width" : 1745,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://35eab023-2d15-48ff-a838-1cdd0fe15241-seam",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-seam/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/png",
+          "label" : "Seam",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-seam",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "png" ],
+              "qualities" : [ "default" ]
+            } ]
+          },
+          "height" : 2304,
+          "width" : 1745
+        },
+        "on" : "http://cad6b682-68a3-4ea2-aabd-a1c217f7871a"
+      }, {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://35eab023-2d15-48ff-a838-1cdd0fe15241-flashing",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-flashing/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/png",
+          "label" : "Flashing",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-flashing",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "png" ],
+              "qualities" : [ "default" ]
+            } ]
+          },
+          "height" : 2304,
+          "width" : 1745
+        },
+        "on" : "http://cad6b682-68a3-4ea2-aabd-a1c217f7871a"
+      }, {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://35eab023-2d15-48ff-a838-1cdd0fe15241-cold-shut",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-cold-shut/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/png",
+          "label" : "Cold-shut",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-cold-shut",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "png" ],
+              "qualities" : [ "default" ]
+            } ]
+          },
+          "height" : 2304,
+          "width" : 1745
+        },
+        "on" : "http://cad6b682-68a3-4ea2-aabd-a1c217f7871a"
+      }, {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://35eab023-2d15-48ff-a838-1cdd0fe15241-lantern",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-lantern/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/png",
+          "label" : "Lantern",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-lantern",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "png" ],
+              "qualities" : [ "default" ]
+            } ]
+          },
+          "height" : 2304,
+          "width" : 1745
+        },
+        "on" : "http://cad6b682-68a3-4ea2-aabd-a1c217f7871a"
+      }, {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://35eab023-2d15-48ff-a838-1cdd0fe15241-labels",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-labels/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/png",
+          "label" : "Labels",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-labels",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "png" ],
+              "qualities" : [ "default" ]
+            } ]
+          },
+          "height" : 2304,
+          "width" : 1745
+        },
+        "on" : "http://cad6b682-68a3-4ea2-aabd-a1c217f7871a"
+      }, {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://35eab023-2d15-48ff-a838-1cdd0fe15241",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
@@ -32,6 +142,7 @@
           "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006/full/full/0/default.jpg",
           "@type" : "dctypes:Image",
           "format" : "image/jpeg",
+          "label" : "Base",
           "service" : {
             "@context" : "http://iiif.io/api/image/2/context.json",
             "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006",
@@ -44,35 +155,6 @@
           "width" : 1745
         },
         "on" : "http://cad6b682-68a3-4ea2-aabd-a1c217f7871a"
-      } ],
-      "related" : ""
-    }, {
-      "@id" : "http://5a052247-ff76-4bd4-8890-e2ccb471022f",
-      "@type" : "sc:Canvas",
-      "label" : "Labels",
-      "height" : 2304,
-      "width" : 1745,
-      "images" : [ {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://6c1796a0-0af5-44e2-a1d5-e6376898b682",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-anno/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif-files.s3.us-west-2.amazonaws.com/bronze-guidelines/fig-006-anno",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
-              "formats" : [ "jpg" ],
-              "qualities" : [ "default" ]
-            } ]
-          },
-          "height" : 2304,
-          "width" : 1745
-        },
-        "on" : "http://5a052247-ff76-4bd4-8890-e2ccb471022f"
       } ],
       "related" : ""
     } ]
